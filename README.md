@@ -15,3 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 . using https://pub.dev/packages/locationfor cps location package
+. https://pub.dev/packages/firebase for firebade
+. https://fluttercorner.com/cannot-run-with-sound-null-safety-because-dependencies-dont-support-null-safety/  solving the error
