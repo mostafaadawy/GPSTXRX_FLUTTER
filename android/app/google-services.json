@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769854514544",
+    "project_id": "tracking-app-bc1f6",
+    "storage_bucket": "tracking-app-bc1f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769854514544:android:80ddebf4682e5242bddbb5",
+        "android_client_info": {
+          "package_name": "com.adawy.tracking_app_pro1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769854514544-5ravt4qbj9juv86ir7f3qepl5go9s2gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUj9EKFW_HEEJuwLm5EWMc3JnAGFNyPkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769854514544-5ravt4qbj9juv86ir7f3qepl5go9s2gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
